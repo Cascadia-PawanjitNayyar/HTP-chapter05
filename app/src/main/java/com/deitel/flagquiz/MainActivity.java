@@ -39,6 +39,8 @@ public class MainActivity extends Activity
       PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
 
       // register listener for SharedPreferences changes
+
+
       PreferenceManager.getDefaultSharedPreferences(this).
          registerOnSharedPreferenceChangeListener(
             preferenceChangeListener);

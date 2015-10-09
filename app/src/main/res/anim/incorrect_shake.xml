@@ -11,4 +11,17 @@
    
    <translate android:fromXDelta="5%p" android:toXDelta="-5%p" 
       android:duration="100" android:startOffset="200"/>
+
+   <translate android:fromXDelta="-5%p" android:toXDelta="5%p"
+       android:duration="100" android:startOffset="300"/>
+
+   <translate android:fromXDelta="5%p" android:toXDelta="-5%p"
+       android:duration="100" android:startOffset="400"/>
+
+   <translate android:fromXDelta="-5%p" android:toXDelta="5%p"
+       android:duration="100" android:startOffset="500"/>
+
+   <translate android:fromXDelta="5%p" android:toXDelta="-5%p"
+       android:duration="100" android:startOffset="600"/>
+
 </set>
